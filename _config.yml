@@ -4,3 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
 show_downloads: true
 title: "Parawee Withayasupanan"
+repository: paraweew/paraweew.github.io
